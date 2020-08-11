@@ -70,7 +70,7 @@ function bubbleChart(valueSelect) {
 ```
 
 * Gauge chart based on selected data<br>
-![hbar](/images/gaugechart.PNG) <br>
+![gauge](/images/gauge_chart.png) <br>
 ```JavaScript
 function gaugeChart(valueSelect) {
 ...
